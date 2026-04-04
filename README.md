@@ -5,7 +5,7 @@ A clean, responsive landing page built for a fictional skincare brand **GlowSkin
 ---
 
 ## 🔗 Live Demo
-← 
+ https://glowskincareproject.netlify.app/       
 
 
 ## ✨ Features

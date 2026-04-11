@@ -1,0 +1,96 @@
+# ⚡ Spark Agency — Digital Marketing Landing Page
+
+A fully customized, responsive premium landing page built for a fictional digital marketing agency **Spark Agency** using HTML, CSS, Bootstrap 5, and AOS animations.
+
+---
+
+## 🔗 Live Demo
+(#) ← replace with your Netlify link
+
+---
+
+---
+
+## ✨ Features
+- Fully responsive design (mobile + tablet + desktop)
+- Sticky dark navbar with hover glow effects
+- Animated hero section with AOS fade-in effects
+- Services section with hover card animations
+- Portfolio grid with CSS hover overlay effect
+- Testimonials carousel slider
+- Newsletter signup with JavaScript validation
+- Contact form with JavaScript validation
+- Smooth scrolling between sections
+- Footer with social media icons
+
+---
+
+## 🛠️ Built With
+- HTML5 (Semantic structure)
+- CSS3 (Custom animations + overlay effects)
+- Bootstrap 5 (Grid + components + icons)
+- AOS.js (Scroll animations)
+- JavaScript (Form validation)
+- Google Fonts (Montserrat + Poppins)
+
+---
+
+## 📁 Project Structure
+  premium-landing-page/
+├── index.html        → Main HTML file
+├── style.css         → Custom CSS styles
+├── images/           → Project images
+└── README.md         → Project documentation
+
+  ## 🎨 Sections Included
+| Section | Description |
+|---------|-------------|
+| Navbar | Sticky dark navbar with glow hover |
+| Hero | Full screen dark gradient + AOS animations |
+| Services | 3 service cards with hover effects |
+| Portfolio | 4 project cards with overlay on hover |
+| Testimonials | Bootstrap carousel with client reviews |
+| Newsletter | Email signup with JS validation |
+| Contact | Contact form with JS validation |
+| Footer | Social media links + copyright |
+
+---
+
+## ⚡ Animations Used
+| Animation | Where |
+|-----------|-------|
+| `fade-up` | Hero text + headings |
+| `fade-right` | Portfolio left cards |
+| `fade-left` | Portfolio right cards |
+| CSS hover overlay | Portfolio cards |
+| CSS translateY | Service cards |
+| Glow effect | Navbar links + brand |
+
+---
+
+## 📱 Responsive On
+- ✅ Mobile (320px+)
+- ✅ Tablet (768px+)
+- ✅ Desktop (1024px+)
+
+---
+
+## 🧠 What I Learned
+- Bootstrap 5 carousel and accordion
+- CSS position absolute for overlay effects
+- AOS.js scroll animations
+- JavaScript form validation
+- CSS hover transitions and glow effects
+- Responsive grid layouts
+
+---
+
+## 👩‍💻 Author
+**Sakshi*
+---
+
+## 📄 License
+This project is open source and available for learning purposes.
+
+---
+
